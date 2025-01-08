@@ -1,0 +1,80 @@
+width: 80%;
+    max-width: 400px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 20px;
+    overflow: hidden;
+  }
+  
+  .yazili-metin {
+   margin-left: 30px;
+   margin-right: 30px;
+   font-size: 20px;
+  }
+  
+  .yazili-metin a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+  } 
+  
+  .yazili-metin a:hover{
+    text-decoration: underline; 
+  }
+  
+  .yazili-metin p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .yazili-metin #tanıtım{
+    font-size: 10px;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 3px; 
+    font-family: 'Times New Roman', Times, serif;}        
+
+    .navbar {
+      padding: 20px 20px;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      z-index: 1000; /* Navbar üstte kalması için */
+    }
+    .navid {
+      font-size: 22px; /* Font boyutu artırıldı */
+      font-weight: 500;
+      color: rgb(157, 157, 157);
+      margin: 0;
+      transition: box-shadow 0.3s ease;
+    }
+    .isim {
+      /* Font boyutu artırıldı */
+      right: 60px;
+      font-size: 24px; /* Font boyutu artırıldı */
+      font-weight: 400;
+      color: rgb(255, 255, 255);
+      transition: transform 0.4s ease, color 0.3s ease;
+      padding: 1000px;
+    }
+    .ismim a {
+      text-decoration: none; /* Removes underline */
+      color: rgb(255, 255, 255);
+      right: 60px;
+      font-size: 24px; /* Font boyutu artırıldı */
+      font-weight: 400;
+    }
+    .ismim a:hover {
+      text-decoration: underline; /* Adds underline on hover */
+    }
+    .gif {
+      width: 40vw;
+      height: 40vw;
+      top: 15vh;
+      right: 25vw;
+      position: absolute;
+  }
+  
+
+}
