@@ -22,6 +22,13 @@
       <option value="5">ozel harekat</option>
        <option value="6">asker</option>
      <p>BIZE NE UZAK BİZE NE YAKIN OLUM OLUMSUZLUGU TATTIK BİZE NE yAPSIN OLUM </p>
-     
-  </body>
+     <nav>
+  <a href="/html/">HTML</a> |
+  <a href="/css/">CSS</a> |
+  <a href="/js/">JavaScript</a> |
+  <a href="/jquery/">jQuery</a>
+</nav>
+<img src ="https://images.app.goo.gl/cteQv9RCgTxvuuMb7"\>
+  
+</body>
 </html>
